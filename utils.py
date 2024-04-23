@@ -18,9 +18,9 @@ def draw_axes():
 
 def vector(x1, y1, x2, y2):
     glBegin(GL_LINES)
-    glColor3f(1, 1, 0)  # Amarillo
-    glVertex2f(x1, y1)  # Origen del vector
-    glVertex2f(x2, y2)  # Punto final del vector
+    glColor3f(1, 1, 0) 
+    glVertex2f(x1, y1)  
+    glVertex2f(x2, y2)  
     glEnd()
 
 
