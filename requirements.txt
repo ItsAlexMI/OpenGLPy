@@ -1,0 +1,4 @@
+
+glfw==2.7.0
+pygame==2.5.2
+PyOpenGL==3.1.7
